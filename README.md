@@ -47,7 +47,7 @@ Build the following methods on the Book class
 
 - `Book.all`
 should return all of the books
-- `Book#author`
+- `Book#authors`
 should return the author instance who wrote this book
 - `Book#title`
 should return the title of the book
